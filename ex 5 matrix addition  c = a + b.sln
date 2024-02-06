@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex 5 matrix addition  c = a + b", "ex 5 matrix addition  c = a + b.csproj", "{5F1F0549-0172-47D7-8B4F-E30355D64AB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F1F0549-0172-47D7-8B4F-E30355D64AB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1F0549-0172-47D7-8B4F-E30355D64AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1F0549-0172-47D7-8B4F-E30355D64AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1F0549-0172-47D7-8B4F-E30355D64AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CDB4638-C1D5-47F3-9F92-DFC4B416DA88}
+	EndGlobalSection
+EndGlobal
